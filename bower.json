@@ -1,0 +1,25 @@
+{
+  "name": "ng-livi18n",
+  "main": "ngLivi18n.js",
+  "version": "0.1.0",
+  "authors": [
+    "Christopher EnyTC <chris.enytc@gmail.com>"
+  ],
+  "description": "Angular Module for Livi18n",
+  "keywords": [
+    "angular",
+    "livi18n",
+    "i18n",
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/chrisenytc/ng-livi18n",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ]
+}
